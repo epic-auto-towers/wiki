@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Perpetual Spinning Top"
 ---
 

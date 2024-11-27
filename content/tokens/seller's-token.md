@@ -1,5 +1,5 @@
 ---
-draft: true
+draft: false
 title: "Seller's Token"
 ---
 

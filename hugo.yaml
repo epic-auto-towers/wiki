@@ -1,0 +1,8 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Epic Auto Towers WIKI
+theme: hextra
+markup:
+  goldmark:
+    renderer:
+        unsafe: true

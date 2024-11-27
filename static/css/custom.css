@@ -1,0 +1,22 @@
+.hextra-card {
+    display: flex;
+    flex-direction: column; /* Use 'row' for side-by-side layout */
+    height: 100%;
+  }
+  
+  .hextra-card-image {
+    flex: 0 0 20%; /* Fix the height at 20% of the card */
+    width: 100%;
+    object-fit: cover; /* Ensure the image fits nicely */
+    max-height: 20%; /* Prevent overflow */
+  }
+  
+  .hextra-card-content {
+    flex: 1 0 80%; /* Allow text to take 80% of the space */
+    padding: 1rem; /* Add padding around the text */
+    overflow: hidden; /* Prevent content overflow */
+    display: flex;
+    flex-direction: column;
+    justify-content: center; /* Center-align text vertically */
+  }
+  

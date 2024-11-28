@@ -2,6 +2,8 @@
 draft: false
 title: "Aspiring Tower"
 ---
+|   Common Tower |
+|--------|
 
 ![landscape](/images/towers/towerS_75.png)
 
@@ -13,5 +15,5 @@ title: "Aspiring Tower"
 * Gains +1 {{< icon dmg >}} to damage and +1 {{< icon hp >}} to HP as a permanent bonus at the end of the turn.
 
 {{< callout type="warning" >}}
-You can't have more than 30 gold.
+You can't have more than 30 {{< icon "gold" >}} gold.
 {{< /callout >}}

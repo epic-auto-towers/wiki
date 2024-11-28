@@ -23,3 +23,11 @@ params:
   navbar:
     displayTitle: true
     displayLogo: false
+
+  comments:
+    enable: true
+    type: giscus
+
+    giscus:
+      repo: https://github.com/epic-auto-towers/wiki
+      repoId: 895268348

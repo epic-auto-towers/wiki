@@ -1,6 +1,6 @@
 baseURL: https://example.org/
 languageCode: en-us
-title: Epic Auto Towers WIKI
+title: Epic Auto Towers Wiki
 theme: hextra
 enableInlineShortcodes: true
 markup:
@@ -18,3 +18,8 @@ menu:
       url: "https://github.com/epic-auto-towers/wiki"
       params:
         icon: github
+
+params:
+  navbar:
+    displayTitle: true
+    displayLogo: false

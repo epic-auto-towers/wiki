@@ -25,11 +25,11 @@ params:
     displayLogo: false
 
   comments:
-    enable: false
+    enable: true
     type: giscus
 
     giscus:
       repo: epic-auto-towers/wiki
       repoId: R_kgDONVy1_A
-      category: Announcements
-      categoryId: DIC_kwDONVy1_M4Cksru
+      category: Comments
+      categoryId: DIC_kwDONVy1_M4Cks7P

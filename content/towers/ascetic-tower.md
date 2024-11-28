@@ -2,6 +2,8 @@
 draft: false
 title: "Ascetic Tower"
 ---
+|   Rare Tower |
+|--------|
 
 ![landscape](/images/towers/towerS_77.png)
 

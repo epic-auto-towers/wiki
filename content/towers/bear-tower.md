@@ -2,6 +2,8 @@
 draft: false
 title: "Bear Tower"
 ---
+|   Uncommon Tower |
+|--------|
 
 ![landscape](/images/towers/towerS_32.png)
 

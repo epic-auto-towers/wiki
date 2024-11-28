@@ -2,6 +2,8 @@
 draft: false
 title: "Cat Tower"
 ---
+|   Uncommon Tower |
+|--------|
 
 ![landscape](/images/towers/towerS_2.png)
 

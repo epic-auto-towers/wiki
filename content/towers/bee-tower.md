@@ -2,6 +2,8 @@
 draft: false
 title: "Bee Tower"
 ---
+|   Common Tower |
+|--------|
 
 ![landscape](/images/towers/towerS_18.png)
 

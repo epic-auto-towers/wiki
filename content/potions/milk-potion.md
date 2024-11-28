@@ -5,7 +5,7 @@ title: "Milk Potion"
 
 ![landscape](/images/towers/towerS_26.png)
 
-Gives the selected Tower milk 2 times1.
+Gives the selected Tower milk 2 times.
 
 {{% details title="Milk" %}}
 

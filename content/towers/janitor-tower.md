@@ -2,6 +2,8 @@
 draft: false
 title: "Janitor Tower"
 ---
+| <span style="color:Red"> Malicious </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_71.png)
 

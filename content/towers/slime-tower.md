@@ -2,6 +2,8 @@
 draft: false
 title: "Slime Tower"
 ---
+| <span style="color:Gold"> Rare </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_21.png)
 

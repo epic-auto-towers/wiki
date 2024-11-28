@@ -2,6 +2,8 @@
 draft: false
 title: "Coffee Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_33.png)
 

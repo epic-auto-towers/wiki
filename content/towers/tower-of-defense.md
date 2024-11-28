@@ -2,6 +2,8 @@
 draft: false
 title: "Tower of Defense"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_65.png)
 

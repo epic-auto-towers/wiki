@@ -2,7 +2,7 @@
 draft: false
 title: "Bear Tower"
 ---
-|   Uncommon Tower |
+| <span style="color:CornflowerBlue"> Uncommon </span> |
 |--------|
 
 ![landscape](/images/towers/towerS_32.png)

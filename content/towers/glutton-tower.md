@@ -2,6 +2,8 @@
 draft: false
 title: "Glutton Tower"
 ---
+| <span style="color:Gold"> Rare </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_54.png)
 

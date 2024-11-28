@@ -2,6 +2,8 @@
 draft: false
 title: "Root Tower"
 ---
+| <span style="color:Cyan"> Common </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_51.png)
 

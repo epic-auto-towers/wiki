@@ -2,6 +2,8 @@
 draft: false
 title: "Snake Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_15.png)
 

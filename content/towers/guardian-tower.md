@@ -2,6 +2,8 @@
 draft: false
 title: "Guardian Tower"
 ---
+| <span style="color:Cyan"> Common </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_3.png)
 

@@ -2,7 +2,7 @@
 draft: false
 title: "Aspiring Tower"
 ---
-|   Common Tower |
+| <span style="color:Cyan"> Common </span> |
 |--------|
 
 ![landscape](/images/towers/towerS_75.png)

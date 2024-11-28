@@ -2,6 +2,8 @@
 draft: false
 title: "Cursed Tower"
 ---
+| <span style="color:Red"> Malicious </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_73.png)
 

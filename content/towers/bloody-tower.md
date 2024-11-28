@@ -2,6 +2,8 @@
 draft: false
 title: "Bloody Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_80.png)
 

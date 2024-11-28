@@ -2,6 +2,8 @@
 draft: false
 title: "Mosquito Tower"
 ---
+| <span style="color:Cyan"> Common </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_10.png)
 

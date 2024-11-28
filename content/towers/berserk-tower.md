@@ -2,7 +2,7 @@
 draft: false
 title: "Berserk Tower"
 ---
-|   Malicious Tower |
+| <span style="color:Red"> Malicious </span> |
 |--------|
 
 ![landscape](/images/towers/towerS_70.png)

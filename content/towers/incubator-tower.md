@@ -2,6 +2,8 @@
 draft: false
 title: "Incubator Tower"
 ---
+| <span style="color:Gold"> Rare </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_82.png)
 

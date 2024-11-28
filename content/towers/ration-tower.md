@@ -2,6 +2,8 @@
 draft: false
 title: "Ration Tower"
 ---
+| <span style="color:Cyan"> Common </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_45.png)
 

@@ -2,6 +2,8 @@
 draft: false
 title: "Trickster Tower"
 ---
+| <span style="color:Gold"> Rare </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_56.png)
 

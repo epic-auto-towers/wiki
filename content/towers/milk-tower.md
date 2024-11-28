@@ -2,6 +2,8 @@
 draft: false
 title: "Milk Tower"
 ---
+| <span style="color:Cyan"> Common </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_1.png)
 

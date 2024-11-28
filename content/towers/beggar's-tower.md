@@ -2,7 +2,7 @@
 draft: false
 title: "Beggar's Tower"
 ---
-|   Malicious Tower |
+| <span style="color:Red"> Malicious </span> |
 |--------|
 
 ![landscape](/images/towers/towerS_74.png)

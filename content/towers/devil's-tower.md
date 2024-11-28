@@ -2,6 +2,8 @@
 draft: false
 title: "Devil's Tower"
 ---
+| <span style="color:Gold"> Rare </span> |
+|--------
 
 ![landscape](/images/towers/towerS_81.png)
 

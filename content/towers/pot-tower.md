@@ -2,6 +2,8 @@
 draft: false
 title: "Pot Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_47.png)
 

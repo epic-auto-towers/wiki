@@ -2,6 +2,8 @@
 draft: false
 title: "Sulphur Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_55.png)
 

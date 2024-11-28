@@ -2,6 +2,8 @@
 draft: false
 title: "Cow Tower"
 ---
+| <span style="color:Gold"> Rare </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_13.png)
 

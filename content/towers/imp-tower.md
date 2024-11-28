@@ -2,6 +2,8 @@
 draft: false
 title: "Imp Tower"
 ---
+| <span style="color:Cyan"> Common </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_38.png)
 

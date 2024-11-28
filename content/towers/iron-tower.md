@@ -2,6 +2,8 @@
 draft: false
 title: "Iron Tower"
 ---
+| <span style="color:Cyan"> Common </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_6.png)
 

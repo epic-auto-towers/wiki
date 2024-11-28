@@ -2,6 +2,8 @@
 draft: false
 title: "Forge Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_17.png)
 

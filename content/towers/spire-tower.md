@@ -2,6 +2,8 @@
 draft: false
 title: "Spire Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_60.png)
 

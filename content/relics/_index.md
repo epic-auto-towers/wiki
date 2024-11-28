@@ -7,14 +7,13 @@ cascade:
 ---
 
 {{< cards cols="2" >}}
-  {{< card link="/relics/removal-token" title="Removal Token" image="images/relics/spr_relic_0.png" subtitle="" method="Resize" options="100x q80 webp" >}}
   {{< card link="/relics/parmesan" title="Parmesan" image="images/relics/spr_relic_1.png" subtitle="" method="Resize" options="100x q80 webp" >}}
   {{< card link="/relics/discount-voucher" title="Discount Voucher" image="images/relics/spr_relic_2.png" subtitle="" method="Resize" options="100x q80 webp" >}}
   {{< card link="/relics/paper-hand-fan" title="Paper Hand Fan" image="images/relics/spr_relic_3.png" subtitle="" method="Resize" options="100x q80 webp" >}}
-  {{< card link="/relics/vagabond's-sack" title="Vagabond's Sack" image="images/relics/spr_relic_7.png" subtitle="" method="Resize" options="100x q80 webp" >}}
+  {{< card link="/relics/vagabonds-sack" title="Vagabond's Sack" image="images/relics/spr_relic_7.png" subtitle="" method="Resize" options="100x q80 webp" >}}
   {{< card link="/relics/right-to-ownership" title="Right to Ownership" image="images/relics/spr_relic_8.png" subtitle="" method="Resize" options="100x q80 webp" >}}
   {{< card link="/relics/perpetual-spinning-top" title="Perpetual Spinning Top" image="images/relics/spr_relic_9.png" subtitle="" method="Resize" options="100x q80 webp" >}}
-  {{< card link="/relics/archaeologist's-hat" title="Archaeologist's Hat" image="images/relics/spr_relic_10.png" subtitle="" method="Resize" options="100x q80 webp" >}}
+  {{< card link="/relics/archaeologists-hat" title="Archaeologist's Hat" image="images/relics/spr_relic_10.png" subtitle="" method="Resize" options="100x q80 webp" >}}
   {{< card link="/relics/stairway-to-heaven" title="Stairway to Heaven" image="images/relics/spr_relic_11.png" subtitle="" method="Resize" options="100x q80 webp" >}}
   {{< card link="/relics/golden-goose" title="Golden Goose" image="images/relics/spr_relic_13.png" subtitle="" method="Resize" options="100x q80 webp" >}}
   {{< card link="/relics/red-data-book" title="Red Data Book" image="images/relics/spr_relic_14.png" subtitle="" method="Resize" options="100x q80 webp" >}}

@@ -2,6 +2,8 @@
 draft: false
 title: "Glass Tower"
 ---
+| <span style="color:Cyan"> Common </span> |
+|-------
 
 ![landscape](/images/towers/towerS_5.png)
 

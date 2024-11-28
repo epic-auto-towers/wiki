@@ -2,6 +2,8 @@
 draft: false
 title: "Thief Tower"
 ---
+| <span style="color:Cyan"> Common </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_8.png)
 

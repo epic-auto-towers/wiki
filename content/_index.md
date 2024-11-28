@@ -18,7 +18,15 @@ images: ['/images/win-sprites/towers_ART_gm_0.png']
 Epic Auto Towers is a single player/turn based strategy game that combines elements of auto combat, deck builder and roguelites. You can buy different types of towers and create the strongest combinations to stop the waves of monsters. You can discover new tower combinations with each new playthrough.
 
 {{< callout >}}
-  If you like the concept of the game and the content seen here consider buying the game on [Steam](https://store.steampowered.com/app/2116060/Epic_Auto_Towers/)
+  If you like the concept of the game and the content seen here consider buying the game.
+  <div class="steam-inline-widget" style="color-scheme:light;">
+  <iframe 
+        src="https://store.steampowered.com/widget/2116060/" 
+        frameborder="0"
+        width="100%"
+        height="190">
+    </iframe>
+  </div>
 {{< /callout >}}
 
 ## Guides

@@ -4,6 +4,9 @@ draft: false
 title: ''
 cascade:
   type: docs
+description: 'Epic Auto Towers Wiki - Learn about the different towers, relics and tokens'
+thumbnail: '/images/win-sprites/towers_ART_gm_0.png'
+images: ['/images/win-sprites/towers_ART_gm_0.png']
 ---
 
 # Welcome to the Epic Auto Towers Wiki

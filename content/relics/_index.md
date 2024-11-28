@@ -21,4 +21,6 @@ cascade:
   {{< card link="/relics/stone-of-simplicity" title="Stone of Simplicity" image="images/relics/spr_relic_16.png" subtitle="" method="Resize" options="100x q80 webp" >}}
   {{< card link="/relics/stone-of-refinement" title="Stone of Refinement" image="images/relics/spr_relic_17.png" subtitle="" method="Resize" options="100x q80 webp" >}}
   {{< card link="/relics/hourglass" title="Hourglass" image="images/relics/spr_relic_18.png" subtitle="" method="Resize" options="100x q80 webp" >}}
+  {{< card link="/relics/magical-goose" title="Magical Goose" image="images/relics/spr_relic_30.png" subtitle="" method="Resize" options="100x q80 webp" >}}
+  {{< card link="/relics/perch" title="Perch" image="images/relics/spr_relic_31.png" subtitle="" method="Resize" options="100x q80 webp" >}}
 {{< /cards >}}

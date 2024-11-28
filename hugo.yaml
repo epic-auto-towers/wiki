@@ -29,5 +29,7 @@ params:
     type: giscus
 
     giscus:
-      repo: https://github.com/epic-auto-towers/wiki
-      repoId: 895268348
+      repo: epic-auto-towers/wiki
+      repoId: R_kgDONVy1_A
+      category: Announcements
+      categoryId: DIC_kwDONVy1_M4Cksru

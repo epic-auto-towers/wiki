@@ -16,3 +16,11 @@ If any Tower spends {{< icon "mana" >}} mana, this Tower receives a permanent {{
 {{< callout type="info" >}}
   Upon reaching level 5 gains 5000 HP.
 {{< /callout >}}
+
+{{% details title="Mana Infusion" %}}
+
+**Used by the Inferno Tower**
+
+Select a Tower. All {{< icon mana >}} mana will be spent, and the selected Tower will receive permanent either {{< icon dmg >}} damage or {{< icon hp >}} HP bonuses for each unit of {{< icon mana >}} mana spent.
+
+{{% /details %}}

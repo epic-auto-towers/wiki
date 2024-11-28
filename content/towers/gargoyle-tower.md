@@ -2,6 +2,8 @@
 draft: false
 title: "Gargoyle Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_83.png)
 

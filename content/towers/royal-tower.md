@@ -2,6 +2,8 @@
 draft: false
 title: "Royal Tower"
 ---
+| <span style=""> Starter </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_0.png)
 

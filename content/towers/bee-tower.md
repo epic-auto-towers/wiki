@@ -2,6 +2,8 @@
 draft: false
 title: "Bee Tower"
 ---
+| <span style="color:Cyan"> Common </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_18.png)
 

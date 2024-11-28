@@ -2,6 +2,8 @@
 draft: false
 title: "Dragon Tower"
 ---
+| <span class="rainbow-text"> Special </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_31.png)
 

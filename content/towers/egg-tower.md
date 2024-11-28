@@ -2,6 +2,8 @@
 draft: false
 title: "Egg Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_34.png)
 

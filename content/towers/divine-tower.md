@@ -2,6 +2,8 @@
 draft: false
 title: "Divine Tower"
 ---
+| <span style=""> Starter </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_62.png)
 

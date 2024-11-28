@@ -2,6 +2,8 @@
 draft: false
 title: "Jester Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_67.png)
 

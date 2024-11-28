@@ -2,6 +2,8 @@
 draft: false
 title: "Flower Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_24.png)
 

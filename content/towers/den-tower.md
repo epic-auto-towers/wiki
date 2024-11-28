@@ -2,6 +2,8 @@
 draft: false
 title: "Den Tower"
 ---
+| <span class="rainbow-text"> Special </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_63.png)
 

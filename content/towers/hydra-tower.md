@@ -2,6 +2,8 @@
 draft: false
 title: "Hydra Tower"
 ---
+| <span style="color:Gold"> Rare </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_23.png)
 

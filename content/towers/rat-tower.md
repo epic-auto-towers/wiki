@@ -2,6 +2,8 @@
 draft: false
 title: "Rat Tower"
 ---
+| <span style="color:Red"> Malicious </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_68.png)
 

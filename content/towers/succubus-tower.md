@@ -2,6 +2,8 @@
 draft: false
 title: "Succubus Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_59.png)
 

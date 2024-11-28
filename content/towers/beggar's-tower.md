@@ -2,6 +2,8 @@
 draft: false
 title: "Beggar's Tower"
 ---
+| <span style="color:Red"> Malicious </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_74.png)
 
@@ -16,5 +18,5 @@ Triggers 1 time per round.
 {{< /callout >}}
 
 {{< callout type="warning" >}}
-Prevents from having more than 11 gold.
+Prevents from having more than 11 {{< icon "gold" >}} gold.
 {{< /callout >}}

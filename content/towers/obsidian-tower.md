@@ -2,6 +2,8 @@
 draft: false
 title: "Obsidian Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_20.png)
 

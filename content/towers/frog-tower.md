@@ -2,6 +2,8 @@
 draft: false
 title: "Frog Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_11.png)
 

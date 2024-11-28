@@ -2,6 +2,8 @@
 draft: false
 title: "Unifying Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_76.png)
 

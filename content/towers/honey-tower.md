@@ -2,6 +2,8 @@
 draft: false
 title: "Honey Tower"
 ---
+| <span class="rainbow-text"> Special </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_19.png)
 

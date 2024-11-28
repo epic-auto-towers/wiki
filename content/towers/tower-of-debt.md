@@ -2,6 +2,8 @@
 draft: false
 title: "Tower of Debt"
 ---
+| <span style="color:Red"> Malicious </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_69.png)
 

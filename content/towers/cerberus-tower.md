@@ -2,6 +2,8 @@
 draft: false
 title: "Cerberus Tower"
 ---
+| <span style="color:Cyan"> Common </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_37.png)
 

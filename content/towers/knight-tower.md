@@ -2,6 +2,8 @@
 draft: false
 title: "Knight Tower"
 ---
+| <span class="rainbow-text"> Special </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_40.png)
 

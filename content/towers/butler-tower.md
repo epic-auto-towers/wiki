@@ -2,6 +2,8 @@
 draft: false
 title: "Butler Tower"
 ---
+| <span style="color:Gold"> Rare </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_7.png)
 

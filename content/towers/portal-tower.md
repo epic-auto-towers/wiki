@@ -2,6 +2,8 @@
 draft: false
 title: "Portal Tower"
 ---
+| <span style="color:Gold"> Rare </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_42.png)
 

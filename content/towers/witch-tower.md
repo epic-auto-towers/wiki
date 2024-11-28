@@ -2,6 +2,8 @@
 draft: false
 title: "Witch Tower"
 ---
+| <span style="color:Gold"> Rare </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_25.png)
 

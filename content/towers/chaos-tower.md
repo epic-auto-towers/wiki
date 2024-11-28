@@ -2,6 +2,8 @@
 draft: false
 title: "Chaos Tower"
 ---
+| <span style="color:Cyan"> Common </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_44.png)
 

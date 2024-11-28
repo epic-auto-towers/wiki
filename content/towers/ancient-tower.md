@@ -2,6 +2,8 @@
 draft: false
 title: "Ancient Tower"
 ---
+| <span style=""> Starter </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_39.png)
 

@@ -2,6 +2,8 @@
 draft: false
 title: "Chest Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_4.png)
 

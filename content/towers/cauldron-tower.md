@@ -2,6 +2,8 @@
 draft: false
 title: "Cauldron Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_53.png)
 

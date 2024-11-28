@@ -2,6 +2,8 @@
 draft: false
 title: "Whirlwind Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_50.png)
 

@@ -2,6 +2,8 @@
 draft: false
 title: "Ladder Tower"
 ---
+| <span style="color:Cyan"> Common </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_14.png)
 

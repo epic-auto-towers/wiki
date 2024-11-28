@@ -2,6 +2,8 @@
 draft: false
 title: "Tower of Promises"
 ---
+| <span style="color:Cyan"> Common </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_79.png)
 

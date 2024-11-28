@@ -2,6 +2,8 @@
 draft: false
 title: "Smelter Tower"
 ---
+| <span style="color:Gold"> Rare </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_49.png)
 

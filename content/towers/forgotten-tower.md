@@ -2,6 +2,8 @@
 draft: false
 title: "Forgotten Tower"
 ---
+| <span style="color:Gold"> Rare </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_66.png)
 

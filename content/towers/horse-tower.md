@@ -2,6 +2,8 @@
 draft: false
 title: "Horse Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_22.png)
 

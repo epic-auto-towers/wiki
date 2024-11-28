@@ -2,6 +2,8 @@
 draft: false
 title: "Well Tower"
 ---
+| <span style="color:Cyan"> Common </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_35.png)
 

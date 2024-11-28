@@ -2,6 +2,8 @@
 draft: false
 title: "Tower Ruins"
 ---
+| <span style="color:Cyan"> Common </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_64.png)
 

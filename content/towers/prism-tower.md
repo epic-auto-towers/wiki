@@ -2,6 +2,8 @@
 draft: false
 title: "Prism Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_78.png)
 

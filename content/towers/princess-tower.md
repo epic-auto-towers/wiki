@@ -2,6 +2,8 @@
 draft: false
 title: "Princess Tower"
 ---
+| <span style="color:Gold"> Rare </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_30.png)
 

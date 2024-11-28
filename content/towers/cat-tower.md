@@ -2,6 +2,8 @@
 draft: false
 title: "Cat Tower"
 ---
+| <span style="color:Cyan"> Common </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_2.png)
 

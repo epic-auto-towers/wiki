@@ -2,6 +2,8 @@
 draft: false
 title: "Berserk Tower"
 ---
+| <span style="color:Red"> Malicious </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_70.png)
 
@@ -14,7 +16,7 @@ At the end of a turn, gives all Towers +2 {{< icon dmg >}} to damage, and takes 
 This effect cannot lower HP below 1 {{< icon hp >}}
 
 {{< callout type="info" >}}
-Does not work on Towers whose HP is 1
+Does not work on Towers whose HP is 1 {{< icon "hp" >}}
 {{< /callout >}}
 
 {{< callout type="warning" >}}

@@ -2,6 +2,8 @@
 draft: false
 title: "Drover Tower"
 ---
+| <span style="color:CornflowerBlue"> Uncommon </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_36.png)
 

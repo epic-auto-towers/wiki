@@ -2,6 +2,8 @@
 draft: false
 title: "Clover Tower"
 ---
+| <span class="rainbow-text"> Special </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_43.png)
 

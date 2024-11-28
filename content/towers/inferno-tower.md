@@ -2,6 +2,8 @@
 draft: false
 title: "Inferno Tower"
 ---
+| <span style=""> Starter </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_41.png)
 

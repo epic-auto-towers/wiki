@@ -2,6 +2,8 @@
 draft: false
 title: "Ascetic Tower"
 ---
+| <span style="color:Gold"> Rare </span> |
+|--------|
 
 ![landscape](/images/towers/towerS_77.png)
 

@@ -1,26 +1,19 @@
 ---
 draft: false
-title: "Monsters Act 4"
+title: "Monsters in the Endless Mode"
 ---
 
-| Balanced Stats | High Health | High Damage |
-|--------|--------|--------|
-| ![landscape](/images/enemies/monsters/monsters_act3_0.png)  |  ![landscape](/images/enemies/monsters/monsters_act3_1.png) | ![landscape](/images/enemies/monsters/monsters_act3_2.png) |
-| {{< center-small >}}
-2 + x{{< icon "dmg" >}}
-{{< /center-small >}} {{< center-small >}}
-2 + x {{< icon "hp" >}}
-{{< /center-small >}}| {{< center-small >}}
-1 + y {{< icon "dmg" >}}
-{{< /center-small >}} {{< center-small >}}
-3 + x + y {{< icon "hp" >}}
-{{< /center-small >}} | {{< center-small >}}
-3 + x + y {{< icon "dmg" >}}
-{{< /center-small >}} {{< center-small >}}
-1 + y {{< icon "hp" >}}
-{{< /center-small >}}|
+The pattern of the previous acts repeat now. 
+
+* Between the Round 35 and 39 the monsters of the 1st Act spawn. At round 40 the 1st boss apears again. (with a higher scaling)
+* Between the Round 40 and 49 the monsters of the 2nd Act spawn. At round 50 the 2nd boss apears again. (with a higher scaling)
+* Between the Round 50 and 59 the monsters of the 3rd Act spawn. At round 60 the 3rd boss apears again. (with a higher scaling)
 
 Each battle different kind of sets of these monsters spawn.
+
+{{< callout type="warning" >}}
+  After round 60 the endboss of act 4 apears every round. With each round it scales higher and higher.
+{{< /callout >}}
 
 {{% details title="Scaling" closed="true" %}}
 

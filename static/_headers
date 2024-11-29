@@ -1,0 +1,10 @@
+### this adds headers to the file
+# Header rules for Netlify
+/*
+  X-Frame-Options: DENY
+  X-XSS-Protection: 1; mode=block
+  Referrer-Policy: strict-origin
+  Content-Security-Policy: frame-ancestors 'self';
+  X-Content-Type-Options: nosniff
+
+Permissions-Policy: geolocation=(), microphone=(), camera=()

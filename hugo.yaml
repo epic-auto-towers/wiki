@@ -33,6 +33,7 @@ params:
       repoId: R_kgDONVy1_A
       category: Comments
       categoryId: DIC_kwDONVy1_M4Cks7P
+      inputPosition: bottom
 
 server:
   headers:

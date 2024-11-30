@@ -13,9 +13,9 @@ You can reroll the start bonus by starting the round and quickly going back to t
 It's important to open the settings before the towers apear in the store. 
 If that happens the trick won't work.
 
-![Reroll](/media/reroll_start_smaller.gif)
+![Reroll](https://data.epic-auto-towers.com/reroll_start_smaller.gif)
 
 If you have a bonus where a specific tower or relic is mentioned you can also reroll that.
 You can do this by just going back to the main menu without going into a round.
 
-![Reroll](/media/reroll_alt_smaller.gif)
+![Reroll](https://data.epic-auto-towers.com/reroll_alt_smaller.gif)

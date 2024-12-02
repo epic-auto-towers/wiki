@@ -7,6 +7,10 @@ cascade:
 
 I make mods for the game. In the demo build i made the endless version. After talking with the developer he allowed me to share mods.
 
+## How to use mods
+
+After you download the mod file you have to go into your game folder. Replace the existing data.win file in the folder with the new mod file. (renaming the data.win file to data.win.backup works too and lets you keep the original file). 
+
 ## Auto Buy Mod
 
 This mod adds the Auto Buy feature. When you press `a` on a tower placed on the field, that tower will be marked.

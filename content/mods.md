@@ -13,7 +13,7 @@ After you download the mod file you have to go into your game folder. Replace th
 
 ## Auto Buy Mod
 
-This mod adds the Auto Buy feature. When you press `a` on a tower placed on the field, that tower will be marked.
+This mod adds the Auto Buy feature. When you press `E` on a tower placed on the field, that tower will be marked.
 If towers of the same type appear in the shop, they will be bought immediately. 
 
 ![Auto Buy](https://data.epic-auto-towers.com/auto_buy.gif)

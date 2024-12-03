@@ -18,6 +18,26 @@ If towers of the same type appear in the shop, they will be bought immediately.
 
 ![Auto Buy](https://data.epic-auto-towers.com/auto_buy.gif)
 
-<div style="text-align:center;">
-  <a href="https://data.epic-auto-towers.com/data.win" download style="text-decoration:none; color: inherit; padding: 5px; border: 2px solid; border-radius: 5px;">Download the mod</a>
+{{< tabs items="v0.66,v0.65" >}}
+
+  {{< tab >}}
+  Epic Auto Towers Game Version v0.66
+
+  Changelog:
+  - Added mod to the new Epic Auto Towers version
+
+  <div style="text-align:center; margin-top: 25px">
+  <a href="https://data.epic-auto-towers.com/data-auto-buy-v0.66.win" download style="text-decoration:none; color: inherit; padding: 5px; border: 2px solid; border-radius: 5px;">Download the mod</a>
 </div>
+  {{< /tab >}}
+  {{< tab >}}
+  Epic Auto Towers Game Version v0.65
+
+  Changelog:
+  - Added Bugfix for compiler Error in the mod
+  
+  <div style="text-align:center; margin-top: 25px">
+  <a href="https://data.epic-auto-towers.com/data-bugfix-v0.65.win" download style="text-decoration:none; color: inherit; padding: 5px; border: 2px solid; border-radius: 5px;">Download the mod</a>
+  </div>
+  {{< /tab >}}
+{{< /tabs >}}

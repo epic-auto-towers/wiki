@@ -3,6 +3,9 @@ draft: false
 title: "Mods"
 cascade:
   type: docs
+description: 'Epic Auto Towers Mods - Improve the game with mods'
+thumbnail: '/images/mods_pic.png'
+images: ['/images/mods_pic.png']
 ---
 
 I make mods for the game. In the demo build i made the endless version. After talking with the developer he allowed me to share mods.

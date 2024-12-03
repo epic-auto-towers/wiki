@@ -14,6 +14,8 @@ I make mods for the game. In the demo build i made the endless version. After ta
 
 After you download the mod file you have to go into your game folder. Replace the existing data.win file in the folder with the new mod file. (renaming the data.win file to data.win.backup works too and lets you keep the original file). 
 
+![landscape](/images/mods_pic.png)
+
 ## Auto Buy Mod
 
 This mod adds the Auto Buy feature. When you press `E` on a tower placed on the field, that tower will be marked.

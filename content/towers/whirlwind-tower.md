@@ -11,9 +11,9 @@ title: "Whirlwind Tower"
 2 {{< icon "dmg" >}}3 {{< icon "hp" >}}
 {{< /center >}}
 
-At the end of a turn, spends all mana until it gains 10 {{< icon mana >}} mana.
+At first level: At the end of the turn, spends all {{< icon mana >}} mana and gains experience equal to the {{< icon mana >}} mana spent.
 
-When the tower gained the required amount of mana, gives +3 {{< icon mana >}} mana at the beginning of a round and gains the skill: Reroll.
+After levelup: At the beginning of the round, gives +4 {{< icon mana >}} and gains the Reroll skill.
 
 {{% details title="Reroll" %}}
 

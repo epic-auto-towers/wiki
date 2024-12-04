@@ -11,7 +11,10 @@ title: "Drover Tower"
 3 {{< icon "dmg" >}}5 {{< icon "hp" >}}
 {{< /center >}}
 
-Takes 1 {{< icon hp >}} HP permanently from the adjacent Tower on the right, and increases that Tower's damage by 2 {{< icon dmg >}}, permanently.
+For the adjacent Tower to the right:
+
+* If the Tower is level 1: <span style="color:red"> removes 10 {{< icon hp >}} HP </span> permanently, and gives +10 experience. 
+* Otherwise increases that Tower's permanent damage by +3 {{< icon dmg >}}.
 
 Duplicates [Cerberus Tower](/towers/cerberus-tower) and [Imp Tower](/towers/imp-tower) in the Tower Store.
 

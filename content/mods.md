@@ -37,7 +37,7 @@ If towers of the same type appear in the shop, they will be bought immediately.
     - Q + 4 for Vigor potion
 
   <div style="text-align:center; margin-top: 25px">
-  <a href="hhttps://data.epic-auto-towers.com/v0.67/data.win" download style="text-decoration:none; color: inherit; padding: 5px; border: 2px solid; border-radius: 5px;">Download the mod</a>
+  <a href="https://data.epic-auto-towers.com/v0.67/data.win" download style="text-decoration:none; color: inherit; padding: 5px; border: 2px solid; border-radius: 5px;">Download the mod</a>
   </div>
   {{< /tab >}}
   {{< tab >}}

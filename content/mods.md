@@ -23,11 +23,13 @@ If towers of the same type appear in the shop, they will be bought immediately.
 
 ![Auto Buy](https://data.epic-auto-towers.com/auto_buy.gif)
 
-{{< tabs items="v0.70,v0.67,v0.66,v0.65" >}}
+{{< tabs items="v0.70c,v0.67,v0.66,v0.65" >}}
   {{< tab >}}
-  Epic Auto Towers Game Version v0.70
+  Epic Auto Towers Game Version v0.70c
 
   The new version can be downloaded from discord. This version doesn't have the potion auto buy. 
+
+  * Fixed bug
 
   <div style="text-align:center; margin-top: 25px">
   <a href="https://cdn.discordapp.com/attachments/1312882809290887198/1320773927366037534/data.win?ex=676ad213&is=67698093&hm=1e632fe9a04665ac543c3d75b1c0c00f29755a387ddb6da21656e62e9d3cdff3&" download style="text-decoration:none; color: inherit; padding: 5px; border: 2px solid; border-radius: 5px;">Download the mod</a>
